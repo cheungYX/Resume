@@ -17,13 +17,13 @@
   * API developer
   * Servers infrastructure maintainer
 * enigmo(2017.11 ~ 2018.06)
-  * Software engineer of EC[buyma](https://www.buyma.com/)
+  * Software engineer of EC [buyma.com](https://www.buyma.com/)
   * Search developer
   * Architecture
 * Supership (2018.06 ~ current)
   * search engineer
   * desin inside search middleware for business
-  * search platform developer[s4](https://www.s4p.jp/)
+  * search platform [s4](https://www.s4p.jp/) developer
 
 # Personal Projects
 * [Gem: TrieSuggest](https://rubygems.org/gems/trie_suggest)
@@ -40,7 +40,7 @@
   * HTML, CSS
 * OS
   * Linux (2 years)
-* databases
+* Databases
   * MySQL
   * Redis
   * Solr
