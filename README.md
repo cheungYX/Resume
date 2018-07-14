@@ -1,5 +1,5 @@
 # Summary
-* Sofeware engineer
+* Software engineer
 * Chinese and live in Tokyo Japan
 * email: cheung1988@hotmail.co.jp
 * github: [cheungYX](https://github.com/cheungYX)
