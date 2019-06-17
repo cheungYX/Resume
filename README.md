@@ -22,9 +22,10 @@
   * Search developer
   * Architecture
 * Supership (2018.06 ~ current)
-  * search engineer
+  * Search engineer / Infrastructure
   * desin inside search middleware for business
   * search platform [s4](https://www.s4p.jp/) developer
+  * 2018 Be Super Award Data Tech Section MVT(Toyota Business Analysis Infrastructure Project)
 
 # Personal Projects
 * [Gem: TrieSuggest](https://rubygems.org/gems/trie_suggest)
@@ -40,7 +41,7 @@
   * Golang
   * HTML, CSS
 * OS
-  * Linux (2 years)
+  * Linux (3 years)
 * Databases
   * MySQL
   * Redis
@@ -56,6 +57,7 @@
     * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-17&ci=AWS00525464)
   * GCP
   * Docker
+  * Kubernetes
 * Other
   * Git
   * Chef
