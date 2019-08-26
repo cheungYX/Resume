@@ -17,7 +17,7 @@
   * Backend server engineer for SNS application [斉藤さん](https://itunes.apple.com/jp/app/%E6%96%89%E8%97%A4%E3%81%95%E3%82%93/id458288241?mt=8)
   * API developer
   * Servers infrastructure maintainer
-* enigmo(2017.11 ~ 2018.06)
+* enigmo(2016.11 ~ 2018.06)
   * Software engineer of EC [buyma.com](https://www.buyma.com/)
   * Search developer
   * Architecture
