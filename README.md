@@ -5,6 +5,7 @@
 * github: [cheungYX](https://github.com/cheungYX)
 * linkedin: [張逸莘](https://jp.linkedin.com/in/逸しん-張-93b877141)
 * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-17&ci=AWS00525464)
+* [Certified Kubernetes Administrator](./tmp/certificate.pdf)
 
 # Education
 * Yokohama National University, Bachelor of Liberal Arts, 2008.4 -- 2012.3
@@ -58,6 +59,7 @@
   * GCP
   * Docker
   * Kubernetes
+    * [Certified Kubernetes Administrator](./tmp/certificate.pdf)
 * Other
   * Git
   * Chef
